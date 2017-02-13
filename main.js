@@ -1,2 +1,1 @@
-console.log("el documento esta listo");
-
+console.log("el documento está listo!!! :D")
